@@ -55,7 +55,7 @@ const Tasks = () => {
     user.length === 0 && navigate("/login");
   }, [tasks, user]);
   return (
-    <div>
+    <div className="mainContainer">
       <Grid container m={3} justifyContent="center">
         <TasksForm handleTask={handleTask} removeAllTasks={removeAllTasks} />
 

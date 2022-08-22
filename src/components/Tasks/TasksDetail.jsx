@@ -15,13 +15,13 @@ const TasksDetail = ({
       sx={{
         boxShadow: 3,
         width: "40%",
+        minWidth: "350px",
         borderRadius: "5px",
         flexDirection: "column",
         justifyContent: "space-between",
         height: "150px",
       }}
       p={3}
-      m={2}
       bgcolor={task.complete ? "#929292" : "white"}
       item
       container
