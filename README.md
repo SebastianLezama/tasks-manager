@@ -1,4 +1,4 @@
-<h1 align="center" ><a href="https://sal-task-manager.surge.sh">Tasks Manager</a></h1>
+<h1 align="center" ><a href="https://sal-task-manager.surge.sh" target="_blank">Tasks Manager</a></h1>
 
 <p align="center">
   Creamos un to do app manejando los estados con Redux Toolkit. Desde el login hasta todos los estados de las tareas.
