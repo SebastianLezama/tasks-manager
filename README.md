@@ -1,11 +1,11 @@
-<h1 align="center" >Task Manager</h1>
+<h1 align="center" ><a href="sal-task-manager.surge.sh">Tasks Manager</a></h1>
 
 <p align="center">
   Creamos un to do app manejando los estados con Redux Toolkit. Desde el login hasta todos los estados de las tareas.
   <br>
-  <a href="https://github.com/SebastianLezama/task-manager/issues/new?template=bug.md">Reportar un bug</a>
+  <a href="https://github.com/SebastianLezama/tasks-manager/issues/new?template=bug.md">Reportar un bug</a>
   ·
-  <a href="https://github.com/SebastianLezama/task-manager/issues/new?template=feature.md&labels=feature">Solicitud de función</a>
+  <a href="https://github.com/SebastianLezama/tasks-manager/issues/new?template=feature.md&labels=feature">Solicitud de función</a>
 </p>
 
 ## Librerías usadas
@@ -23,7 +23,7 @@
 - Copia el repositorio
 
 ```text
-git clone git@github.com:SebastianLezama/task-manager.git
+git clone git@github.com:SebastianLezama/tasks-manager.git
 ```
 
 - Instala las dependencias
@@ -40,7 +40,7 @@ npm run dev
 
 ## Bugs y feature requests
 
-Si tienes algún bug o una feature request, por favor abre un nuevo [issue](https://github.com/SebastianLezama/task-manager/issues/new).
+Si tienes algún bug o una feature request, por favor abre un nuevo [issue](https://github.com/SebastianLezama/tasks-manager/issues/new).
 
 ## React Router Dom
 
